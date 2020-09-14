@@ -1,7 +1,7 @@
 # Ignore files
 .DS_Store
 Python_API_grading_rubric.pdf
-api_keys.py
+config.py
 /starter_code
 **/.ipynb_checkpoints/
 **/__pycache__/
