@@ -3,3 +3,5 @@
 Python_API_grading_rubric.pdf
 api_keys.py
 /starter_code
+**/.ipynb_checkpoints/
+**/__pycache__/
